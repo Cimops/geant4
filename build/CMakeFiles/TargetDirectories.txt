@@ -1,0 +1,3 @@
+/home/dima/Desktop/myprojj/build/CMakeFiles/proj.dir
+/home/dima/Desktop/myprojj/build/CMakeFiles/edit_cache.dir
+/home/dima/Desktop/myprojj/build/CMakeFiles/rebuild_cache.dir
