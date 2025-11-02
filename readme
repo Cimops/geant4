@@ -1,3 +1,2 @@
-Для того, чтобы подгрузить окружение, необходимо сначала прописать
+Пример проекта Geant4 по моделированию оптоволокна и sensitive detector.
 
-. /home/dima/Geant4/geant4-v11.3.0-install/share/Geant4/geant4make/geant4make.sh  
